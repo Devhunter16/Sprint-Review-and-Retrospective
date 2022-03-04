@@ -10,7 +10,7 @@ The Product Owner interprets user needs by interacting directly with the custome
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-I approach developing programs in small iterative portions, testing along the way, rather than devloping the entire program and testing at the end. In future collaborative work, I hope to incorporate the frequent communication agile encourages. I also hope to encorporate story points if possible as a measure of effort for future coding projects. 
+I approach developing programs in small iterative portions, testing along the way, rather than developing the entire program and testing at the end. In future collaborative work, I hope to incorporate the frequent communication agile encourages. I also hope to encorporate story points if possible as a measure of effort for future coding projects. 
 
 
 What does it mean to be a good team member in software development?
